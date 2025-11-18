@@ -1,0 +1,75 @@
+# Project TODO
+
+- [x] Setup design system (colors, fonts, global styles)
+- [x] Copy logo and company assets to project
+- [x] Create hero section with "Coming Soon" message
+- [x] Create company overview section
+- [x] Create production phases section (Phase 1, 2, 3)
+- [x] Create products showcase section
+- [x] Create capacity information section
+- [x] Create location/contact section
+- [x] Add premium business styling and animations
+- [x] Ensure responsive design for all devices
+- [x] Test all sections and links
+- [x] Change logo background to premium metallic aluminum texture
+- [x] Add "Coming Soon" toast notification on "Learn More" button click
+- [x] Replace curtain wall product image with high-end office building facade
+- [x] Update location address to Everwin Industrial Park, Dammam
+- [x] Format company registration information display
+- [x] Add Coming Soon toast to View Products button
+- [x] Remove website URL from company information section
+- [x] Enhance logo with 3D metallic silver effect
+- [x] Ensure Phase 1 status badge aligns with Phase 2 and 3
+- [x] Fix Product Portfolio heading (restore "Portfolio" text)
+- [x] Format email in contact section properly
+- [x] Update location to include Kingdom of Saudi Arabia
+- [x] Remove inline styles from Phase status badges
+- [x] Replace Phase 3 image with electric vehicle aluminum frame production
+- [x] Replace Phase 2 image with industrial aluminum profile production
+- [x] Replace solar mounting product image with solar frame aluminum profiles
+- [x] Replace window/door product image with thermal break aluminum profiles
+- [x] Replace transportation product image with EV frame aluminum profiles
+- [x] Replace precision instruments image with precision machined aluminum profiles
+- [x] Create language context for English/Arabic switching
+- [x] Add language toggle button to navigation
+- [x] Create Arabic translations for all content
+- [x] Implement RTL layout support for Arabic
+- [x] Test language switching functionality
+- [x] Fix About section title padding (remove duplicate style attribute)
+- [x] Replace Phase 2 production image with high-end industrial aluminum profile manufacturing process
+- [x] Replace Phase 3 production image with EV aluminum frame extrusion production showing frame structure
+- [x] Fix Product Portfolio section title display issue (black overlay blocking text)
+- [x] Optimize mobile responsiveness for Product Portfolio section
+- [x] Update Phase 1 timeline text to "Coming in May 2026"
+- [x] Fix duplicate style attribute on Phase 1 status badge
+- [x] Update translation for Phase 1 status in both English and Arabic
+- [x] Update hero title to "Shaping Excellence in Every Profile"
+- [x] Add silver metallic artistic effect to "Profile" word
+- [x] Update translations for new hero title in both languages
+- [x] Search for aluminum profile manufacturing process video
+- [x] Replace hero static image with video background
+- [x] Add video controls and optimization (autoplay, loop, muted)
+- [x] Ensure video background is responsive on mobile devices
+- [x] Add fallback image for browsers that don't support video
+- [x] Update language toggle button icon to display "E/ع" instead of globe icon
+- [x] Review all hardcoded English text in Arabic interface
+- [x] Replace hardcoded English text with translation keys
+- [x] Verify all content displays correctly in Arabic mode
+- [x] Update copyright year to 2025
+- [x] Fix duplicate style attributes in contact section capacity display
+- [x] Update "Profile" text to silver metallic style with aluminum texture effect
+- [x] Translate hardcoded "Upon full completion of all phases" text
+- [x] Add mobile hamburger menu for responsive navigation
+- [x] Ensure language toggle button is visible and functional on mobile devices
+- [x] Test and fix Arabic RTL layout on mobile screens
+- [x] Optimize mobile navigation UX for both languages
+- [x] Create sitemap.xml for SEO optimization
+- [x] Add sitemap.xml to public directory for search engine crawlers
+- [x] Create robots.txt with sitemap reference
+- [x] Fix sitemap.xml routing issue (being served as HTML instead of XML)
+- [x] Configure proper MIME type for sitemap.xml
+- [x] Test sitemap.xml accessibility from Google Search Console
+- [x] Update sitemap.xml with actual production domain (www.nkaluminum.sa)
+- [x] Update robots.txt with actual production domain
+- [x] Simplify sitemap.xml format (remove hreflang, keep basic structure)
+- [x] Verify sitemap.xml is accessible at production domain
